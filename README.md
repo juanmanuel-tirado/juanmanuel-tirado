@@ -4,8 +4,7 @@
 I spent most of my time helping companies to design data-driven solutions. I'm particularly interested in how data can leverage distributed systems. This includes
 but is not limited to graphs, time series analysis, decision making, deep-learning, high-performance, etc.
 
-I'm the author of [Build systems with Go: everything a Gopher must know](https://www.amazon.com/dp/B091F8RL84) a book for developers who go one step beyond the
-basics and need advanced examples. You can find the complete repo with all the examples [here](https://github.com/juanmanuel-tirado/savetheworldwithgo)
+I'm the author of [Build systems with Go: everything a Gopher must know](https://www.amazon.com/dp/B091F8RL84) a book for developers with plenty of examples from the basics to more advanced solutions. You can find the complete repo with all the examples [here](https://github.com/juanmanuel-tirado/savetheworldwithgo)
 
 You can reach me in:
 - :computer: My web: [jmtirado.net](https://jmtirado.net)
@@ -14,11 +13,22 @@ You can reach me in:
 - :bird: [My Twitter account](https://twitter.com/jmtirado)
 
 Some technologies I use:
+- Go
+- Python
+- C/C++
+- Kubernetes
+- Cassandra
+- Kafka
+- Spark
+- Tensorflow
+- Latex
+- ...
+<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/scala/scala.png"></code> 
-
+-->
 
 <!---
 juanmanuel-tirado/juanmanuel-tirado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
