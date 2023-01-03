@@ -4,7 +4,7 @@
 I spent most of my time helping companies to design data-driven solutions. I'm particularly interested in how data can leverage distributed systems. This includes
 but is not limited to graphs, time series analysis, decision making, deep-learning, high-performance, etc.
 
-I'm the author of [Build systems with Go: everything a Gopher must know](https://www.amazon.com/dp/B091F8RL84) a book for developers with plenty of examples from the basics to more advanced solutions. You can find the complete repo with all the examples [here](https://github.com/juanmanuel-tirado/savetheworldwithgo)
+I'm the author of [Build systems with Go: everything a Gopher must know](https://www.amazon.com/gp/product/B091FX4CZX) a book for developers with plenty of examples from the basics to more advanced solutions. You can find the complete repo with all the examples [here](https://github.com/juanmanuel-tirado/savetheworldwithgo)
 
 You can reach me in:
 - :computer: My web: [jmtirado.net](https://jmtirado.net)
